@@ -88,6 +88,18 @@
     "蜂巢": {
       "api": "https://api.fczy888.me/api.php/provide/vod",
       "name": "蜂巢资源"
+    },
+    "速播": {
+      "api": "https://subocj.com/api.php/provide/vod",
+      "name": "速播资源"
+    },
+    "火花": {
+      "api": "https://cj.huohua.live/api.php/provide/vod",
+      "name": "火花资源" 
+    },
+    "麒麟": {
+      "api": "https://www.qilinzyz.com/api.php/provide/vod",
+      "name": "麒麟资源"
     }
   }
 }
