@@ -80,6 +80,10 @@
     "豪华": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
+      },
+    "牛牛": {
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8",
+      "name": "牛牛资源"
     }
   }
 }
