@@ -120,6 +120,18 @@
     "红牛": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "name": "红牛资源"
+    },
+    "量子": {
+      "api": "https://cj.lziapi.com/api.php/providedown/vod",
+      "name": "量子资源"
+    },
+    "暴风": {
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "name": "暴风资源"
+    },
+    "爱坤": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "爱坤资源"
     }
   }
 }
