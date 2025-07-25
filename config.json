@@ -192,6 +192,62 @@
     "海外1": {
       "api": "https://www.xvideos.com/pubdovod.php",
       "name": "海外1资源"
-    }  
+    },
+    "天堂": {
+      "api": "http://vipmv.cc/api.php/provide/vod",
+      "name": "天堂资源"
+    },
+    "乐活": {
+      "api": "http://lehootv.com/api.php/provide/vod",
+      "name": "乐活资源"
+    },
+    "探探": {
+      "api": "http://apittzy.com/api.php/provide/vod",
+      "name": "探探资源"
+    },
+    "閃電": {
+      "api": "http://sdzyapi.com/api.php/provide/vod",
+      "name": "閃電资源"
+    },
+    "奥斯卡": {
+      "api": "http://aosikazy.com/api.php/provide/vod",
+      "name": "奥斯卡资源"
+    },
+    "酷点": {
+      "api": "http://api.kuapi.cc/api.php/provide/vod",
+      "name": "酷点资源"
+    },
+    "闪电": {
+      "api": "http://sdzyapi.com/api.php/provide/vod",
+      "name": "闪电资源"
+    },
+    "飞速": {
+      "api": "http://feisuzy.com/api.php/provide/vod",
+      "name": "飞速资源"
+    },
+    "快播": {
+      "api": "http://www.kuaibozy.com/api.php/provide/vod",
+      "name": "快播资源"
+    },
+    "艾旦": {
+      "api": "http://lovedan.net/api.php/provide/vod",
+      "name": "艾旦资源"
+    } ,
+    "飘花": {
+      "api": "http://www.zzrhgg.com/api.php/provide/vod",
+      "name": "飘花资源"
+    },
+    "流光AV": {
+      "api": "https://www.isantai.com/api.php/provide/vod",
+      "name": "流光AV资源"
+   },
+    "流光AV": {
+      "api": "http://www.isantai.com/api.php/provide/vod",
+      "name": "流光AV资源"
+    },
+    "111": {
+      "api": "https://www.onibough.com/api.php/provide/vod",
+      "name": "111资源"
+    } 
   }
 }
