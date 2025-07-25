@@ -144,7 +144,15 @@
     "唐人": {
       "api": "http://tangrenjie.tv/api.php/provide/vod",
       "name": "唐人街资源"
-     
+    },
+    "老鸭": {
+      "api": "http://api.apilyzy.com/api.php/provide/vod",
+      "name": "老鸭街资源"
+    },
+    "aaa": {
+      "api": "https://www.xvideos.com/api.php/provide/vod",
+      "name": "aaa街资源"
+      
     }  
   }
 }
