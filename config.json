@@ -152,7 +152,46 @@
     "aaa": {
       "api": "https://www.xvideos.com/api.php/provide/vod",
       "name": "aaa街资源"
-      
+    },
+    "開放": {
+      "api": "http://vod-demo.onrender.com/pubdovod.php",
+      "name": "開放资源"
+    },
+    "优质": {
+      "api": "http://api.1080zyku.com/inc/api.php/provide/vod",
+      "name": "优质资源"
+    },
+    "39": {
+      "api": "http://39kan.com/api.php/provide/vod",
+      "name": "39资源"
+    },
+    "海外": {
+      "api": "http://haiwaikan.com/api.php/provide/vod",
+      "name": "海外资源"
+    },
+    "U酷": {
+      "api": "http://api.ukuapi.com/api.php/provide/vod",
+      "name": "U酷资源"
+    },
+    "北斗": {
+      "api": "http://m3u8.bdxzyapi.com/api.php/provide/vod",
+      "name": "北斗星资源"
+    },
+    "百度": {
+      "api": "http://api.apibdzy.com/api.php/provide/vod",
+      "name": "百度资源"
+    },
+    "网民": {
+      "api": "http://prinevillesda.org/api.php/provide/vod",
+      "name": "网民资源"
+    },
+    "丝袜": {
+      "api": "http://siwazyw.cc/api.php/provide/vod",
+      "name": "丝袜资源"
+    },
+    "海外1": {
+      "api": "https://www.xvideos.com/pubdovod.php",
+      "name": "海外1资源"
     }  
   }
 }
