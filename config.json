@@ -131,7 +131,20 @@
     },
     "爱坤": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "爱坤资源"
-    }
+      "name": "爱坤资源" 
+    },
+    "影库": {
+      "api": "http://api.ykapi.net/api.php/provide/vod",
+      "name": "影库资源"  
+    },
+    "森林": {
+      "api": "http://slapibf.com/api.php/provide/vod",
+      "name": "森林资源"
+    },
+    "唐人": {
+      "api": "http://tangrenjie.tv/api.php/provide/vod",
+      "name": "唐人街资源"
+     
+    }  
   }
 }
