@@ -257,5 +257,13 @@
       "api": "https://www.example.com/api.php/provide/vod",
       "name": "空内容测试源"
     },
+    "黄色仓库": {
+      "api": "https://hsckzy.vip/api.php/provide/vod",
+      "name": "黄色仓库"
+    },
+    "美少女资源站": {
+      "api": "https://www.msnii.com/api/json.php",
+      "name": "美少女资源站"
+    },
   },
 },
